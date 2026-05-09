@@ -48,6 +48,12 @@
   pageRef = "categories/cloud"
   weight = 20
 
+[[main]]
+  name = "Docker"
+  parent = "Categorías"
+  pageRef = "categories/docker"
+  weight = 20
+
 
 #[[subnavigation]]
 #  name = "An interesting topic"

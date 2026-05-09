@@ -1,13 +1,16 @@
 ---
-title: "Activar gpedit.msc en Windows Home usando un script segundo post"
-date: 2026-05-07
-description: "Habilita gpedit.msc en ediciones Home de Windows para GPOs"
-categories: ["Windows"]
-tags: ["GPOs"]
+title: "Activar gpedit.msc en Windows Home usando script"
+date: 2026-04-29
 draft: false
+
+categories:
+  - Windows
+
+tags:
+ - regedit
 ---
 
-## 📌 Descripción general
+
 
 Este script de tipo **batch (.bat)** permite habilitar el Editor de Directivas de Grupo (**gpedit.msc**) en ediciones de Windows donde no está disponible por defecto, como **Windows Home**.
 
@@ -34,7 +37,7 @@ El script funciona instalando manualmente paquetes internos del sistema relacion
 
 ## 🧾 Código del script
 
-```bat
+```powershell
 @echo off
 pushd "%~dp0"
 
@@ -112,7 +115,7 @@ Si todo salió bien, se abrirá el Editor de Directivas de Grupo.
 
 Ejecuta en CMD como administrador:
 
-```
+```powershell
 sfc /scannow
 ```
 
@@ -124,8 +127,5 @@ Luego intenta nuevamente.
 
 Este script es una forma práctica de habilitar herramientas avanzadas de administración en Windows Home reutilizando componentes que ya existen en el sistema pero no están activados por defecto.
 
----
-
-## 📄 Licencia
-
-Uso educativo y bajo tu propia responsabilidad.
+## 📽️ Video completo
+{{< youtube ZWsTj1X5bR4 >}}

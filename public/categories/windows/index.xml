@@ -9,26 +9,46 @@
     <managingEditor>Soporte@SoyITPro.com (Jair Gómez)</managingEditor>
     <webMaster>Soporte@SoyITPro.com (Jair Gómez)</webMaster>
     <copyright>@SoyITPro - con mucho 💙</copyright>
-    <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/windows/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Activar gpedit.msc en Windows Home usando un script</title>
-      <link>http://localhost:1313/post/gpedit-windows-home/</link>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <title>Auto-firmar archivos RDP en Windows 11</title>
+      <link>http://localhost:1313/post/2026/new-selfsigned-certificate-rdp/</link>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
       <author>Soporte@SoyITPro.com (Jair Gómez)</author>
-      <guid>http://localhost:1313/post/gpedit-windows-home/</guid>
+      <guid>http://localhost:1313/post/2026/new-selfsigned-certificate-rdp/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/post/gpedit-windows-home/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/post/2026/new-selfsigned-certificate-rdp/feature.webp" />
     </item>
     
     <item>
-      <title>Activar gpedit.msc en Windows Home usando un script segundo post</title>
-      <link>http://localhost:1313/post/prueba-segundo-post/</link>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <title>Activar gpedit.msc en Windows Home usando script</title>
+      <link>http://localhost:1313/post/2026/gpedit-windows-home/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
       <author>Soporte@SoyITPro.com (Jair Gómez)</author>
-      <guid>http://localhost:1313/post/prueba-segundo-post/</guid>
+      <guid>http://localhost:1313/post/2026/gpedit-windows-home/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/post/prueba-segundo-post/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/post/2026/gpedit-windows-home/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Eliminar advertencia de RDP en Windows 11 por Regedit</title>
+      <link>http://localhost:1313/post/2026/rdp-advertencia-windows11-kb5083769/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <author>Soporte@SoyITPro.com (Jair Gómez)</author>
+      <guid>http://localhost:1313/post/2026/rdp-advertencia-windows11-kb5083769/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/post/2026/rdp-advertencia-windows11-kb5083769/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Personalizar la instalación de Windows 11 con un archivo autounattend.xml</title>
+      <link>http://localhost:1313/post/2026/iso-windows11-autounattend/</link>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <author>Soporte@SoyITPro.com (Jair Gómez)</author>
+      <guid>http://localhost:1313/post/2026/iso-windows11-autounattend/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/post/2026/iso-windows11-autounattend/feature.webp" />
     </item>
     
   </channel>

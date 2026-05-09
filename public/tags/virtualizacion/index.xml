@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtualizacion on SoyITPro</title>
+    <link>http://localhost:1313/tags/virtualizacion/</link>
+    <description>Recent content in Virtualizacion on SoyITPro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>Soporte@SoyITPro.com (Jair Gómez)</managingEditor>
+    <webMaster>Soporte@SoyITPro.com (Jair Gómez)</webMaster>
+    <copyright>@SoyITPro - con mucho 💙</copyright>
+    <lastBuildDate>Sun, 02 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/virtualizacion/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GPU Passthrough a VM con Windows en Proxmox</title>
+      <link>http://localhost:1313/post/2025/proxmox-gpu-passthrough/</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      <author>Soporte@SoyITPro.com (Jair Gómez)</author>
+      <guid>http://localhost:1313/post/2025/proxmox-gpu-passthrough/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/post/2025/proxmox-gpu-passthrough/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>

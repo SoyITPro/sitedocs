@@ -4,25 +4,55 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/post/gpedit-windows-home/</loc>
-    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/post/prueba-segundo-post/</loc>
-    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/post/2026/new-selfsigned-certificate-rdp/</loc>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2026-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/post/2026/gpedit-windows-home/</loc>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/post/2026/wordpress-sql-a-markdown/</loc>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/post/2026/rdp-advertencia-windows11-kb5083769/</loc>
+    <lastmod>2026-04-29T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/post/2026/iso-windows11-autounattend/</loc>
+    <lastmod>2026-04-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/post/2025/proxmox-gpu-passthrough/</loc>
+    <lastmod>2025-11-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/post/2025/install-docker-wsl-windows11/</loc>
+    <lastmod>2025-11-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

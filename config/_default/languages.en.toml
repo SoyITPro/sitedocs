@@ -9,7 +9,7 @@ title = "SoyITPro"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "https://avatars.githubusercontent.com/u/21012566?v=4"
+  # logo = "images/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Contenido Tech para Profesionales de TI"
   copyright = "@SoyITPro - con mucho 💙"
