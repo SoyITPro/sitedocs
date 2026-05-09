@@ -95,9 +95,9 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showCategoriesInSecondaryColor = false # This will change the color of category badges, so the user can better distinguish between the two. Only if showTaxonomies is true.
   showAuthorsBadges = false
   showWordCount = false
-  # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
+  sharingLinks = [ "twitter", "facebook", "whatsapp", "telegram"]
   showZenMode = false
-  # externalLinkForceNewTab = false # disable to allow external links in the same tab (defaults to true)
+  externalLinkForceNewTab = true # disable to allow external links in the same tab (defaults to true)
 
 [list]
   showHero = false
