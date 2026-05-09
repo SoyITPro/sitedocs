@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gpedit-Windows-Homes on Blowfish</title>
+    <link>http://localhost:1313/gpedit-windows-home/</link>
+    <description>Recent content in Gpedit-Windows-Homes on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>Soporte@SoyITPro.com (SoyITPro)</managingEditor>
+    <webMaster>Soporte@SoyITPro.com (SoyITPro)</webMaster>
+    <copyright>© 2026 SoyITPro</copyright>
+    <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/gpedit-windows-home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Activar gpedit.msc en Windows Home usando un script</title>
+      <link>http://localhost:1313/gpedit-windows-home/gpedit-windows-home/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <author>Soporte@SoyITPro.com (SoyITPro)</author>
+      <guid>http://localhost:1313/gpedit-windows-home/gpedit-windows-home/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on SoyITPro</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on SoyITPro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>Soporte@SoyITPro.com (Jair Gómez)</managingEditor>
+    <webMaster>Soporte@SoyITPro.com (Jair Gómez)</webMaster>
+    <copyright>@SoyITPro - con mucho 💙</copyright>
+    <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Activar gpedit.msc en Windows Home usando un script</title>
+      <link>http://localhost:1313/post/gpedit-windows-home/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <author>Soporte@SoyITPro.com (Jair Gómez)</author>
+      <guid>http://localhost:1313/post/gpedit-windows-home/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/post/gpedit-windows-home/feature.png" />
+    </item>
+    
+    <item>
+      <title>Activar gpedit.msc en Windows Home usando un script segundo post</title>
+      <link>http://localhost:1313/post/prueba-segundo-post/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <author>Soporte@SoyITPro.com (Jair Gómez)</author>
+      <guid>http://localhost:1313/post/prueba-segundo-post/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/post/prueba-segundo-post/feature.png" />
+    </item>
+    
+  </channel>
+</rss>
