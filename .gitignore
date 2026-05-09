@@ -8,4 +8,7 @@ Thumbs.db
 .vscode/
 .idea/
 
+.obsidian/workspace.json
+.obsidian/cache/
+
 node_modules/
