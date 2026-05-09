@@ -2,7 +2,7 @@
 title: "Auto-firmar archivos RDP en Windows 11"
 date: 2026-04-30
 draft: false
-
+description: "Crea certificados autofirmados para advertencia de RDP en Windows 11"
 categories:
   - Windows
 

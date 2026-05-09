@@ -2,7 +2,7 @@
 title: "Eliminar advertencia de RDP en Windows 11 por Regedit"
 date: 2026-04-29
 draft: false
-
+description: "Con estas llaves del regedit de Windows 11 puedes quitar la advertencia de RDP"
 categories:
   - Windows
 

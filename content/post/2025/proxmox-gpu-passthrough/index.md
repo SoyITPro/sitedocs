@@ -2,7 +2,7 @@
 title: "GPU Passthrough a VM con Windows en Proxmox"
 date: 2025-11-02
 draft: false
-
+description: "Pasa tu GPU a una máquina virtual Windows en Proxmox fácilmente"
 categories:
 - Proxmox
 

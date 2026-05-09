@@ -2,7 +2,7 @@
 title: "Personalizar la instalación de Windows 11 con un archivo autounattend.xml"
 date: 2026-04-25
 draft: false
-
+description: "Crea archivos desatendidos para instalar Windows 11 sin tanto bloadware"
 categories:
   - Windows
 

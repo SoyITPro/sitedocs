@@ -2,7 +2,7 @@
 title: "Instalacíón de Docker en WSL 2 con Windows 11"
 date: 2025-11-02
 draft: false
-
+description: "Así puedes tener Docker en WSL de Windows 11 y ejecutar tus contenedores"
 categories:
 - Docker
 

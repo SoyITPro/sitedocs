@@ -2,7 +2,7 @@
 title: "Convertir Database Wordpress SQL a markdown con Python"
 date: 2026-04-29
 draft: false
-
+description: "Si tienes una DB SQL de Wordpress puedes convertirla en markdown"
 categories:
 - SQL
 
