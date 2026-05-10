@@ -9,7 +9,7 @@ categories:
 tags:
  - Virtualizacion
 ---
-
+Passthrouth de GPU es pasar tu tarjeta gráfica física de tu equipos host a una máquina virtual sea Windows o Linux para poder utilizarla directamente sin pasar por el Host, esto nos permitirá poder ejecutar juegos, modelos de IA y toda App que necesite procesamiento gráfico completo en la VM.
 ## Que es IOMMU
 
 ### **Es un componente de hardware que actúa como un puente entre los dispositivos de E/S (como tarjetas gráficas o de red) y la memoria principal del sistema**

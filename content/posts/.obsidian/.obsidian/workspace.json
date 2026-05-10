@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "f0ed77f05e43a05c",
+    "id": "61f330aac472857e",
     "type": "split",
     "children": [
       {
-        "id": "2632ceb6293a9392",
+        "id": "f7d63a30c6fe5364",
         "type": "tabs",
         "children": [
           {
-            "id": "05beaf7c25821be9",
+            "id": "6dba4da8e35e5932",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025/proxmox-gpu-passthrough/index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "15795ae744a6314d",
+    "id": "74dd7f83a159858d",
     "type": "split",
     "children": [
       {
-        "id": "d5f71359f966f03e",
+        "id": "12b62e7f10e823c4",
         "type": "tabs",
         "children": [
           {
-            "id": "0d607fd6cf58ae69",
+            "id": "cb901e86d8b523e0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "16281459c65c9da0",
+            "id": "38ef6b9d634b44ed",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "7e6b468e5ceffbfd",
+            "id": "a34c769ba732fe7c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "937d23801f92cd24",
+    "id": "24e97c7b7324c22c",
     "type": "split",
     "children": [
       {
-        "id": "c66a45b62cde2019",
+        "id": "17ae52b588ad39d5",
         "type": "tabs",
         "children": [
           {
-            "id": "5ea0312c48bef8d0",
+            "id": "be75354f47ce78c6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025/proxmox-gpu-passthrough/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,11 +99,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de index"
+              "title": "Enlaces entrantes"
             }
           },
           {
-            "id": "9f549060c2594157",
+            "id": "7cce376a7538c838",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -121,7 +116,7 @@
             }
           },
           {
-            "id": "14b38a3be3919f48",
+            "id": "f3e9f3348d20815e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,7 +131,7 @@
             }
           },
           {
-            "id": "42b2bc681c4f19db",
+            "id": "c5210dddfa584cba",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -150,7 +145,7 @@
             }
           },
           {
-            "id": "f547459f14b539a1",
+            "id": "d225c2c72d98ad1b",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -181,10 +176,6 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "05beaf7c25821be9",
-  "lastOpenFiles": [
-    "2026/gpedit-windows-home/index.md",
-    "2026/wordpress-sql-a-markdown/feature.webp",
-    "Sin nombre"
-  ]
+  "active": "6dba4da8e35e5932",
+  "lastOpenFiles": []
 }
