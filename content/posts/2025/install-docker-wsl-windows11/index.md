@@ -10,7 +10,7 @@ tags:
  - Containers
 ---
 
-WSL o Windows Subsystem for Linux es una instalación nativa de Linux dentro de Windows 11 y donde podemos instalar Docker para correr nuestros contenedores.
+WSL o Windows Subsystem for Linux es una instalación virtualizada de Linux dentro de Windows 11 y donde podemos instalar Docker para correr nuestros contenedores.
 
 ### Requisitos
 ---
