@@ -88,4 +88,5 @@ Con este método puedes:
 
 - Preparar entornos de prueba o despliegue masivo
 
-[![Vídeo: Instalación Windows 11](https://img.youtube.com/vi/HEZhCxXUgYM/maxresdefault.jpg)](https://www.youtube.com/watch?v=HEZhCxXUgYM)
+## 📽️ Video completo
+{{< youtube HEZhCxXUgYM >}}

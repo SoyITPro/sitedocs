@@ -10,3 +10,6 @@ categories:
 tags:
  - regedit
 +++
+
+## 📽️ Video completo
+{{< youtube ZWsTj1X5bR4 >}}
