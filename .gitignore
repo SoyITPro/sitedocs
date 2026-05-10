@@ -1,6 +1,7 @@
 /public
 /resources/_gen
 .hugo_build.lock
+themes/blowfish/exampleSite/
 
 .DS_Store
 **/.DS_Store
