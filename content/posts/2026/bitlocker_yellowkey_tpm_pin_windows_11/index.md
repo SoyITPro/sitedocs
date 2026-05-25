@@ -163,6 +163,10 @@ manage-bde -protectors -add C: -TPMAndPIN
 
 ---
 
+## 📽️ Video completo
+{{< youtube TeVX0Q7dEYI >}}
+
+---
 # Recomendaciones
 
 - Guardar la clave de recuperación de BitLocker en un lugar seguro.

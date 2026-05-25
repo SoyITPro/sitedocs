@@ -11,12 +11,14 @@
             "id": "05beaf7c25821be9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "2026/bitlocker_yellowkey_tpm_pin_windows_11/feature.webp"
+                "file": "2026/bitlocker_yellowkey_tpm_pin_windows_11/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "feature"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ]
@@ -181,13 +183,12 @@
   },
   "active": "05beaf7c25821be9",
   "lastOpenFiles": [
+    "2026/gpedit-windows-home/index.md",
     "2026/bitlocker_yellowkey_tpm_pin_windows_11/index.md",
-    "2026/bitlocker_yellowkey_tpm_pin_windows_11/feature.webp",
     "2026/bitlocker_yellowkey_tpm_pin_windows_11/feature.webp",
     "2026/bitlocker_yellowkey_tpm_pin_windows_11/Sin confirmar 69234.crdownload",
     "2026/new-selfsigned-certificate-rdp/index.md",
     "2026/bitlocker_yellowkey_tpm_pin_windows_11/Sin confirmar 972117.crdownload",
-    "2026/gpedit-windows-home/index.md",
     "2026/bitlocker_yellowkey_tpm_pin_windows_11",
     "2025/proxmox-gpu-passthrough/index.md",
     "2026/wordpress-sql-a-markdown/feature.webp",
