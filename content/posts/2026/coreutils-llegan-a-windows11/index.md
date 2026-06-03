@@ -68,7 +68,7 @@ Conflictos de nombres: algunos comandos (find, sort) ya existen en CMD/PowerShel
 
 La versión que se ejecuta dependerá del PATH y de los alias configurados en PowerShell.
 
-✅ Conclusión
+## ✅ Conclusión
 
 Con la llegada de las coreutils a Windows 11 los desarrolladores y administradores de sistemas podrán usar los mismos comandos en los diferentes Sistemas Operativos y evitar la fricción que esto puede generar.
 
