@@ -11,14 +11,12 @@
             "id": "05beaf7c25821be9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "2026/bitlocker_yellowkey_tpm_pin_windows_11/index.md",
-                "mode": "source",
-                "source": false
+                "file": "2026/coreutils-llegan-a-windows11/feature.webp"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "feature"
             }
           },
           {
@@ -92,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 229.50390243530273
   },
   "right": {
     "id": "937d23801f92cd24",
@@ -195,8 +193,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "05beaf7c25821be9",
+  "active": "0d607fd6cf58ae69",
   "lastOpenFiles": [
+    "2026/coreutils-llegan-a-windows11/index.md",
+    "2026/coreutils-llegan-a-windows11/feature.webp",
+    "2026/bitlocker_yellowkey_tpm_pin_windows_11/index.md",
     "2026/verificar_low_latency_profime_windows_11/index.md",
     "2026/verificar_low_latency_profile_windows_11/index.md",
     "2026/verificar_low_latency_profile_windows_11/feature.webp",
@@ -204,7 +205,6 @@
     "2026/verificar_low_latency_profime_windows_11/feature.webp",
     "2026/verificar_low_latency_profime_windows_11/low_latency_profile_enable.webp",
     "2026/verificar_low_latency_profime_windows_11/low_latency_profile_enable.png",
-    "2026/bitlocker_yellowkey_tpm_pin_windows_11/index.md",
     "2026/iso-windows11-autounattend/index.md",
     "2026/iso-windows11-autounattend/feature.webp",
     "2026/gpedit-windows-home/index.md",
