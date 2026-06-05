@@ -20,6 +20,11 @@
   url = "https://YouTube.com/@SoyITPro"
   weight = 10
 
+[[main]]
+  name = "Foro"
+  url = "https://foro.SoyITPro.com"
+  weight = 10
+
 #[[main]]
 #  name = "Categorías"
 #  weight = 20
